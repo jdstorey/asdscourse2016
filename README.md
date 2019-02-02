@@ -1,8 +1,8 @@
 # Foundations of Applied Statistics and Data Science with Applications in Biology
 
-This is the github repository for QCB 408 / QCB 508 at Princeton University.
+This is the github repository for QCB 408 / QCB 508 at Princeton University offered in Spring 2017.
   
-https://jdstorey.github.io/asdscourse/
+https://jdstorey.github.io/asdscourse2017/
   
 [QCB 408](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=014039&term=1174)
   
